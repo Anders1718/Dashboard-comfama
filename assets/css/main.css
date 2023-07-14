@@ -3139,7 +3139,7 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: #000000;
 		}
 
 		.spotlight.style2 .content {
@@ -4110,3 +4110,19 @@ input, select, textarea {
 .mapa{
 	width: 33%;
 }
+
+.torta{
+	width: 49.8%;
+}
+
+.regresion{
+	height: 22rem;
+}
+
+.torta2{
+	margin-left: 6%;
+	width: 49.8%;
+}
+
+
+
